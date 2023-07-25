@@ -1,8 +1,5 @@
 file = open("input.txt")
 
-# data = file.readlines()
-# print(data)
-
 lines = []
 
 while True:
